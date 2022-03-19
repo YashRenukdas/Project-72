@@ -1,0 +1,9 @@
+{
+  "name": "Project 72",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {},
+  "dependencies": {
+    "expo": "^44.0.6"
+  }
+}
